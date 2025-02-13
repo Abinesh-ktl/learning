@@ -1,0 +1,36 @@
+[1mdiff --git a/contact.html b/contact.html[m
+[1mindex 5a84e1a..0494bd7 100644[m
+[1m--- a/contact.html[m
+[1m+++ b/contact.html[m
+[36m@@ -8,5 +8,7 @@[m
+ <body>[m
+     <h1>name</h1>[m
+     <h2>phn no 9498066339</h2>[m
+[32m+[m[32m    <h2>address</h2>[m
+[32m+[m[32m    <h1>gmail</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9aa2e24..9304d2a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,5 +8,6 @@[m
+ <body>[m
+     <h1>index page from vs code</h1>[m
+     <p>this is abinesh</p>[m
+[32m+[m[32m    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum assumenda sed pariatur asperiores consequatur. Maxime, quam architecto sapiente rerum recusandae, sequi natus quod error perferendis, dignissimos accusamus corporis numquam voluptatem.</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/user.html b/user.html[m
+[1mindex a10d76f..a6c7800 100644[m
+[1m--- a/user.html[m
+[1m+++ b/user.html[m
+[36m@@ -9,5 +9,6 @@[m
+     <h1>user page  from git</h1>[m
+     <h1>user page  from git</h1>[m
+     <h1>abinesh</h1>[m
+[32m+[m[32m    <h2>ganesh</h2>[m
+ </body>[m
+ </html>[m
